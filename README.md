@@ -18,7 +18,7 @@
 - Run the project in you browser 
 - Inspect it to check the look in mobile format.
 
-![screenshot](image/hello_microverse.png)
+![screenshot](image/img-microverse.png)
 
 ## Author
 
